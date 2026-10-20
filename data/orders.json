@@ -1,0 +1,28 @@
+[
+  {
+    "id": "SS-C907F505",
+    "createdAt": "2026-10-20T12:19:20.705Z",
+    "status": "Confirmed (Demo)",
+    "paymentMethod": "Cash on delivery (demo)",
+    "customer": {
+      "name": "Sana Shaik",
+      "email": "shaik@gmail.com",
+      "phone": "1234567891",
+      "address": "Satish Road,Prakash Nagar",
+      "city": "Narasaraopet",
+      "pin": "522601"
+    },
+    "items": [
+      {
+        "id": "p101",
+        "name": "Everyday Wireless Headphones",
+        "unitPrice": 2499,
+        "quantity": 1,
+        "lineTotal": 2499
+      }
+    ],
+    "subtotal": 2499,
+    "shipping": 0,
+    "total": 2499
+  }
+]

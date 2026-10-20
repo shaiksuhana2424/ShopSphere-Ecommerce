@@ -1,0 +1,9 @@
+{
+  "name": "shopsphere-ecommerce",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ShopSphere full-stack demo e-commerce store using Node.js built-in modules and a responsive web UI.",
+  "main": "server.js",
+  "scripts": {"start": "node server.js", "dev": "node --watch server.js", "test": "node --test"},
+  "engines": {"node": ">=20"}
+}
